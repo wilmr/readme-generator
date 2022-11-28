@@ -79,12 +79,11 @@ function questions() {
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-	fs.appendFile(`${fileName}.md`, JSON.stringify(data), (err) =>
+	fs.appendFile(`${fileName}.md`, data, (err) =>
 		err ? console.error(err) : console.log('Your README has been generated!')
 	);
 }
 
-// TODO: Create a function to initialize app
 // TODO: Create a function to initialize app
 async function init() {
 	let answers = await questions();
