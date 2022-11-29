@@ -1,26 +1,22 @@
-# test proj
-  ## Badges
+# readme generator
   ## Table of Contents
-  * [License](#license)
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [How to Contribute](#how-to-contribute)
   * [Tests](#tests)
   * [Questions?](#questions)
-  ## License
   ## Description
-  nothing at all
+  it generates a readme file
   ## Installation
-  you can't because it's not real
+  you cannot install this application
   ## Usage
-  just look at it 
+  type 'node index.js' in terminal
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  you probably shouldn't
+  no
   ## Tests
-  n/a
-  ## Questions?
+  no tests were made for this app
   ### Reach me here: 
   [wilmr](https://github.com/wilmr)  
-  wilmxrr@gmail.com
+  wilmer@gmail.com
